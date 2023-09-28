@@ -41,7 +41,7 @@ pl:
     - title: "Kontakt"
       section: kontakt
 pl-PL:
-  <<: **DEFAULT_PL
+  <<: *DEFAULT_PL
 
 # Spanish
 # -------

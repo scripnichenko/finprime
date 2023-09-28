@@ -551,3 +551,5 @@ pl:
       - url: https://twitter.com
         icon: "fab fa-twitter"
       - url: https://
+pl-PL:
+  <<: *DEFAULT_PL
