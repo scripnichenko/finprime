@@ -473,3 +473,81 @@ de: &DEFAULT_DE
         icon: "fab fa-instagram"
 de-DE:
   <<: *DEFAULT_DE
+
+pl:
+  header:
+    title: "Witaj w naszym biurze rachunkowosci FinPrime"
+    text: "Miło Cię poznać"
+    button: "Powiedz Mi Więcej"
+    buttonlink: "#uslugi"
+
+  services:
+    title: "Usługi"
+    text: "Lorem ipsum"
+    section: uslugi
+    list:
+      - title: "Rejestracja działalności"
+        desc: "Nasza usługa Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Obsługa Księgowa"
+        desc: "Nasza profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
+        icon: fas fa-laptop
+      - title: "Księgowość spółek"
+        desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej spółki."
+        icon: fab fa-laptop
+
+  timeline:
+    title: "Osi czasu"
+    text: "Doświadczenie"
+    section: doswiadczenie
+    events:
+      - title: "Moje Początki"
+        year: "2004-2011"
+        desc: "W ciągu 7 lat pełniłam funkcje księgowego i ekonomisty w różnych firmach na Ukrainie. Moje obowiązki obejmowały zarządzanie finansami, analizę ekonomiczną oraz rozliczenia podatkowe. To była cenna lekcja, która wzbogaciła moje umiejętności zawodowe."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Główny księgowy"
+        year: "2012-2015"
+        desc: "W ciągu 4 lat pełniłam funkcję Głównego Księgowego (Trans Cholod, Ukraina ), odpowiedzialnego za kompleksową obsługę finansową. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz zarządzanie finansami firmy. To był okres, w którym zdobywałem cenne doświadczenie jako profesjonalny księgowy."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Księgowa"
+        year: "2018-2023"
+        desc: "W ciągu 5 lat pracowałem jako Księgowa (Aptus Consulting Sp. z o.o. - Wrocław). Posiadam bogate doświadczenie w obszarze polskiego prawa podatkowego oraz systemów księgowych. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz ścisłą współpracę z polskimi systemami księgowymi. To cenne doświadczenie pozwoliło mi doskonalić moje umiejętności w dziedzinie księgowości."
+        image: assets/img/timeline/3.jpg
+        alt: "Tekst alternatywny obrazu"
+      - title: "Założenie firmy - FinPrime!"
+        year: "Wrzesień 2023"
+        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotów do dostarczania najlepszych usług księgowych i doradczych klientom."
+        image: assets/img/timeline/4.jpg
+        alt:
+        align: right
+    end: "Bądź Częścią <br> Naszej <br> Historii!"
+  
+  about:
+    title: "O Nas"
+    text: "Nasza misja"
+    body: "dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
+    section: o-nas
+
+  contact:
+    title: "Skontaktuj się z nami"
+    text: "Lorem ipsum lub zadzwoń pod numer 123456789"
+    section: kontakt
+    name: "Imię*"
+    name-validation: "Proszę podać swoje imię."
+    email: "E-mail*"
+    email-validation: "Proszę podać swój adres e-mail."
+    phone: "Numer Telefonu"
+    phone-validation: "Proszę podać swój numer telefonu."
+    message: "Wiadomość*"
+    message-validation: "Proszę wpisać wiadomość."
+    subject: "Formularz Kontaktowy"
+    submit: "Wyślij Wiadomość"
+
+  footer:
+    legal: "Polityka Prywatności"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://

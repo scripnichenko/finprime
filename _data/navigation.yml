@@ -13,18 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
     - title: "About"
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -33,6 +27,21 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
+
+# Polski (Polish)
+# -----------------
+pl:
+  nav:
+    - title: "Usługi"
+      section: uslugi
+    - title: "O nas"
+      section: o-nas
+    - title: "Doświadczenie"
+      section: doswiadczenie
+    - title: "Kontakt"
+      section: kontakt
+pl-PL:
+  <<: **DEFAULT_PL
 
 # Spanish
 # -------
