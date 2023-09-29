@@ -30,18 +30,18 @@ en-AU:
 
 # Polski (Polish)
 # -----------------
-# pl:
-#   nav:
-#     - title: "Usługi"
-#       section: uslugi
-#     - title: "O nas"
-#       section: o-nas
-#     - title: "Doświadczenie"
-#       section: doswiadczenie
-#     - title: "Kontakt"
-#       section: kontakt
-# pl-PL:
-#   <<: *DEFAULT_PL
+pl:
+  nav:
+    - title: "Usługi"
+      section: uslugi
+    - title: "O nas"
+      section: o-nas
+    - title: "Doświadczenie"
+      section: doswiadczenie
+    - title: "Kontakt"
+      section: kontakt
+pl-PL:
+  <<: *DEFAULT_PL
 
 # Spanish
 # -------
