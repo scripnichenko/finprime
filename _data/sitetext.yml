@@ -131,7 +131,7 @@ en: &DEFAULT_EN
   contact:
     title: "Skontaktuj się z nami"
     text: "Mailowo przez [finprime.ievgeniia.s@gmail.com](mailto:finprime.ievgeniia.s@gmail.com) lub zadzwoń pod numer **+4730079948**"
-    section: kontakt
+    section: contact
     name: "Imię*"
     name-validation: "Proszę podać swoje imię."
     email: "E-mail*"
