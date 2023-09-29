@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Witaj w naszym biurze rachunkowosci FinPrime
+    title: Witaj w naszym biurze rachunkowości FinPrime
     text: Miło Cię poznać
     button: Powiedz Mi Więcej
     buttonlink: "#services"
@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: "Tekst alternatywny obrazu"
       - title: "Założenie firmy - FinPrime!"
         year: "Wrzesień 2023"
-        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotów do dostarczania najlepszych usług księgowych i doradczych klientom."
+        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotówa do dostarczania najlepszych usług księgowych i doradczych klientom."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Skontaktuj się z nami"
-    text: "Lorem ipsum lub zadzwoń pod numer 123456789"
+    text: "Mailowo przez [finprime.ievgeniia.s@gmail.com](mailto:finprime.ievgeniia.s@gmail.com) lub zadzwoń pod numer **+4730079948**"
     section: kontakt
     name: "Imię*"
     name-validation: "Proszę podać swoje imię."
