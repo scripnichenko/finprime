@@ -11,141 +11,140 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Witaj w naszym biurze rachunkowosci FinPrime
+    text: Miło Cię poznać
+    button: Powiedz Mi Więcej
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Usługi"
+    text: "Chętnie pomożemy w różnych kierunkach"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Rejestracja działalności"
+        desc: "Nasza usługa Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Obsługa Księgowa"
+        desc: "Nasza profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Księgowość spółek"
+        desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej spółki."
+        icon: fab fa-laptop
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  # portfolio:
+  #   title: "Portfolio"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: portfolio
+  #   closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Osi czasu"
+    text: "Doświadczenie"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Moje Początki"
+        year: "2004-2011"
+        desc: "W ciągu 7 lat pełniłam funkcje księgowego i ekonomisty w różnych firmach na Ukrainie. Moje obowiązki obejmowały zarządzanie finansami, analizę ekonomiczną oraz rozliczenia podatkowe. To była cenna lekcja, która wzbogaciła moje umiejętności zawodowe."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Główny księgowy"
+        year: "2012-2015"
+        desc: "W ciągu 4 lat pełniłam funkcję Głównego Księgowego (Trans Cholod, Ukraina ), odpowiedzialnego za kompleksową obsługę finansową. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz zarządzanie finansami firmy. To był okres, w którym zdobywałem cenne doświadczenie jako profesjonalny księgowy."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Księgowa"
+        year: "2018-2023"
+        desc: "W ciągu 5 lat pracowałem jako Księgowa (Aptus Consulting Sp. z o.o. - Wrocław). Posiadam bogate doświadczenie w obszarze polskiego prawa podatkowego oraz systemów księgowych. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz ścisłą współpracę z polskimi systemami księgowymi. To cenne doświadczenie pozwoliło mi doskonalić moje umiejętności w dziedzinie księgowości."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt: "Tekst alternatywny obrazu"
+      - title: "Założenie firmy - FinPrime!"
+        year: "Wrzesień 2023"
+        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotów do dostarczania najlepszych usług księgowych i doradczych klientom."
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Bądź Częścią <br> Naszej <br> Historii!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "O Nas"
+    text: "Nasza misja"
+    body: "Dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: clients
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  # team:
+  #   title: "OUR AMAZING TEAM"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #   section: team
+  #   people:
+  #     - name: "Kay Garland"
+  #       role: "Lead Designer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Larry Parker"
+  #       role: "Lead Marketer"
+  #       image: assets/img/team/2.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Diana Perterson"
+  #       role: "Lead Developer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    title: "Skontaktuj się z nami"
+    text: "Lorem ipsum lub zadzwoń pod numer 123456789"
+    section: kontakt
+    name: "Imię*"
+    name-validation: "Proszę podać swoje imię."
+    email: "E-mail*"
+    email-validation: "Proszę podać swój adres e-mail."
+    phone: "Numer Telefonu"
+    phone-validation: "Proszę podać swój numer telefonu."
+    message: "Wiadomość*"
+    message-validation: "Proszę wpisać wiadomość."
+    subject: "Formularz Kontaktowy"
+    submit: "Wyślij Wiadomość"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Polityka Prywatności"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -527,7 +526,7 @@ de-DE:
 #   about:
 #     title: "O Nas"
 #     text: "Nasza misja"
-#     body: "dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
+#     body: "Dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
 #     section: o-nas
 
 #   contact:
