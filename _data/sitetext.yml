@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Usługi"
-    text: "Chętnie pomogę w różnych kierunkach"
+    text: "Wsparcie dopasowane do różnych potrzeb"
     section: services
     list:
       - title: "Rejestracja działalności"
