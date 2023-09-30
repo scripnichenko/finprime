@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
         icon: fab fa-laptop
       - title: "Kadry i Płace"
-        desc: "Ukompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
+        desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
         icon: fab fa-laptop
 
   # portfolio:
