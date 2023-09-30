@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagam Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-store #find more at https://fontawesome.com/icons
       - title: "Księgowość"
-        desc: "Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
+        desc: "Oferuję usługi najwyższej jakości, które są dostosowane do indywidualnych potrzeb i interesów każdego klienta, kompleksowe rozwiązanie z zakresu księgowości. Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
         icon: fas fa-calculator
       - title: "Kadry i Płace"
         desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
