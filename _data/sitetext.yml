@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: "Tekst alternatywny obrazu"
       - title: "Założenie firmy - FinPrime!"
         year: "Wrzesień 2023"
-        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotówa do dostarczania najlepszych usług księgowych i doradczych klientom."
+        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotówa do dostarczania najlepszych usług księgowych klientom."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
