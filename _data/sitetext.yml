@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Rejestracja działalności"
         desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
-        icon: fa-solid fa-store #find more at https://fontawesome.com/icons
+        icon: fas fa-store #find more at https://fontawesome.com/icons
       - title: "Księgowość"
         desc: "Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
-        icon: fas fa-store
+        icon: fas fa-calculator
       - title: "Kadry i Płace"
         desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
-        icon: fab fa-laptop
+        icon: fas fa-chart-user
 
   # portfolio:
   #   title: "Portfolio"
