@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Witaj w biurze rachunkowości FinPrime
+    title: Witaj!  Rachunkowość FinPrime - Twoje Rozwiązania Finansowe
     text: Miło Cię poznać
     button: Powiedz Mi Więcej
     buttonlink: "#services"
@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Obsługa Księgowa"
-        desc: "Nasza profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
+        desc: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
         icon: fab fa-laptop
       - title: "Księgowość spółek"
         desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej firmy."
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
   #   closebutton: "Close Project"
 
   timeline:
-    title: "Osi czasu"
+    title: "Moje Ścieżki Zawodowe"
     text: "Doświadczenie"
     section: timeline
     # left is the default
@@ -65,10 +65,10 @@ en: &DEFAULT_EN
         image: assets/img/timeline/4.jpg
         alt:
         align: right
-    end: "Bądź Częścią <br> Naszej <br> Historii!"
+    end: "Zaufaj <br> Mojej <br> Ekspertyzie!"
 
   about:
-    title: "O Nas"
+    title: "O Firme"
     text: "Nasza misja"
     body: "Dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
     section: about
