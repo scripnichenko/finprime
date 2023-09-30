@@ -11,24 +11,24 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Witaj w naszym biurze rachunkowości FinPrime
+    title: Witaj w biurze rachunkowości FinPrime
     text: Miło Cię poznać
     button: Powiedz Mi Więcej
     buttonlink: "#services"
 
   services:
     title: "Usługi"
-    text: "Chętnie pomożemy w różnych kierunkach"
+    text: "Chętnie pomogę w różnych kierunkach"
     section: services
     list:
       - title: "Rejestracja działalności"
-        desc: "Nasza usługa Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
+        desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Obsługa Księgowa"
         desc: "Nasza profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
-        icon: fas fa-laptop
+        icon: fab fa-laptop
       - title: "Księgowość spółek"
-        desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej spółki."
+        desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej firmy."
         icon: fab fa-laptop
 
   # portfolio:
