@@ -24,11 +24,11 @@ en: &DEFAULT_EN
       - title: "Rejestracja działalności"
         desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Obsługa Księgowa"
+      - title: "Księgowość"
         desc: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
         icon: fab fa-laptop
-      - title: "Księgowość spółek"
-        desc: "Kompleksowa obsługa finansowa, dostosowana specjalnie do potrzeb i wymogów Twojej firmy."
+      - title: "Kadry i Płace"
+        desc: "Usługa kadrowo-płacowa to kompleksowe rozwiązanie, które w pełni dostosowujemy do potrzeb Twojej firmy."
         icon: fab fa-laptop
 
   # portfolio:
