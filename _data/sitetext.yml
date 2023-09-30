@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
         icon: fab fa-laptop
       - title: "Kadry i Płace"
-        desc: "Usługa kadrowo-płacowa to kompleksowe rozwiązanie, które w pełni dostosowujemy do potrzeb Twojej firmy."
+        desc: "UKompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
         icon: fab fa-laptop
 
   # portfolio:
