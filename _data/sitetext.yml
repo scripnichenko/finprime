@@ -18,17 +18,17 @@ en: &DEFAULT_EN
 
   services:
     title: "Usługi"
-    text: "Wsparcie dopasowane do różnych potrzeb"
+    text: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu"
     section: services
     list:
       - title: "Rejestracja działalności"
         desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fab fa-laptop #find more at https://fontawesome.com/icons
       - title: "Księgowość"
-        desc: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. Zajmujemy się księgowością, podatkami i wsparciem finansowym."
+        desc: "Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
         icon: fab fa-laptop
       - title: "Kadry i Płace"
-        desc: "UKompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
+        desc: "Ukompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
         icon: fab fa-laptop
 
   # portfolio:
