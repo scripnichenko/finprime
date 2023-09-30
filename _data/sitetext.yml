@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Rejestracja działalności"
-        desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagamy Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
+        desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagam Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
         icon: fas fa-store #find more at https://fontawesome.com/icons
       - title: "Księgowość"
         desc: "Usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
   about:
     title: "O Firme"
     text: "Nasza misja"
-    body: "Dostarczanie najwyższej jakości usług księgowych. Jesteśmy przekonani, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
+    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
     section: about
 
   # clients:
