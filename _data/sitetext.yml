@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-calculator
       - title: "Kadry i Płace"
         desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
-        icon: fas fa-chart-user
+        icon: fas fa-address-book
 
   # portfolio:
   #   title: "Portfolio"
