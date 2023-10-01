@@ -31,12 +31,6 @@ en: &DEFAULT_EN
         desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
         icon: fas fa-address-book
 
-  # portfolio:
-  #   title: "Portfolio"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   section: portfolio
-  #   closebutton: "Close Project"
-
   timeline:
     title: "Moje Ścieżki Zawodowe"
     text: "Doświadczenie"
@@ -73,24 +67,8 @@ en: &DEFAULT_EN
     body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
     section: about
 
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
 
+  #  Refactor into Contacts
   # team:
   #   title: "OUR AMAZING TEAM"
   #   text: "Lorem ipsum dolor sit amet consectetur."
@@ -129,8 +107,8 @@ en: &DEFAULT_EN
   #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Skontaktuj się z nami"
-    text: "Mailowo przez [finprime.ievgeniia.s@gmail.com](mailto:finprime.ievgeniia.s@gmail.com) lub zadzwoń pod numer **+4730079948**"
+    title: "Kontakt"
+    text: "Mailowo przez finprime.ievgeniia.s@gmail.com lub zadzwoń pod numer **+4730079948**"
     section: contact
     name: "Imię*"
     name-validation: "Proszę podać swoje imię."
