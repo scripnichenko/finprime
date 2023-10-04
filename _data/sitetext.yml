@@ -75,16 +75,16 @@ en: &DEFAULT_EN
     subtext: "Twoje pytania i potrzeby są dla mnie priorytetem. Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Telefon"
+        role: "+4730079948"
+        image: assets/img/team/call.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://t.me/+48730079948
+            icon: fab fa-telegram
+          - url: https://wa.link/prz74u
+            icon: fab fa-whatsapp"
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
