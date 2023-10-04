@@ -84,7 +84,7 @@ en: &DEFAULT_EN
           - url: https://wa.link/prz74u
             icon: fab fa-whatsapp
           - url: sms:+48730079948?&body=Witam!
-            icon: fas fa-comment-sms
+            icon: fa-solid fa-comment-sms fa-shake
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
