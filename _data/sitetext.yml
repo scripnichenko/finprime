@@ -82,7 +82,7 @@ en: &DEFAULT_EN
           - url: https://t.me/+48730079948
             icon: fab fa-telegram
           - url: https://wa.link/prz74u
-            icon: fab fa-whatsapp"
+            icon: fab fa-whatsapp
           - url: sms:+48730079948?&body=Witam!
             icon: fas fa-comment-sms
       - name: "Larry Parker"
