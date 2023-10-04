@@ -70,9 +70,9 @@ en: &DEFAULT_EN
 
   # // Refactor into Contacts
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Kontakt"
+    text: "Skontaktuj się z nami, aby uzyskać więcej informacji lub omówić swoje potrzeby."
+    subtext: "Twoje pytania i potrzeby są dla mnie priorytetem. Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: team
     people:
       - name: "Kay Garland"
