@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "Doświadczenie"
       section: timeline
     - title: "Kontakt"
-      section: contact
+      section: team
 en-US:
   <<: *DEFAULT_EN
 en-CA:

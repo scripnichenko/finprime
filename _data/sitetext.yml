@@ -68,58 +68,58 @@ en: &DEFAULT_EN
     section: about
 
 
-  #  Refactor into Contacts
-  # team:
-  #   title: "OUR AMAZING TEAM"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-  #   section: team
-  #   people:
-  #     - name: "Kay Garland"
-  #       role: "Lead Designer"
-  #       image: assets/img/team/500x500.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
-  #     - name: "Larry Parker"
-  #       role: "Lead Marketer"
-  #       image: assets/img/team/2.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
-  #     - name: "Diana Perterson"
-  #       role: "Lead Developer"
-  #       image: assets/img/team/500x500.jpg
-  #       social:
-  #         - url: https://twitter.com
-  #           icon: fab fa-twitter
-  #         - url: https://facebook.com
-  #           icon: fab fa-facebook-f
-  #         - url: https://linkedin.com
-  #           icon: fab fa-linkedin-in
+  # // Refactor into Contacts
+  team:
+    title: "OUR AMAZING TEAM"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    section: team
+    people:
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
 
-  contact:
-    title: "Kontakt"
-    text: "Mailowo przez finprime.ievgeniia.s@gmail.com lub zadzwoń pod numer **+4730079948**"
-    section: contact
-    name: "Imię*"
-    name-validation: "Proszę podać swoje imię."
-    email: "E-mail*"
-    email-validation: "Proszę podać swój adres e-mail."
-    phone: "Numer Telefonu"
-    phone-validation: "Proszę podać swój numer telefonu."
-    message: "Wiadomość*"
-    message-validation: "Proszę wpisać wiadomość."
-    subject: "Formularz Kontaktowy"
-    submit: "Wyślij Wiadomość"
+  # contact:
+  #   title: "Kontakt"
+  #   text: "Mailowo przez finprime.ievgeniia.s@gmail.com lub zadzwoń pod numer **+4730079948**"
+  #   section: contact
+  #   name: "Imię*"
+  #   name-validation: "Proszę podać swoje imię."
+  #   email: "E-mail*"
+  #   email-validation: "Proszę podać swój adres e-mail."
+  #   phone: "Numer Telefonu"
+  #   phone-validation: "Proszę podać swój numer telefonu."
+  #   message: "Wiadomość*"
+  #   message-validation: "Proszę wpisać wiadomość."
+  #   subject: "Formularz Kontaktowy"
+  #   submit: "Wyślij Wiadomość"
 
   footer:
     legal: "Polityka Prywatności"
