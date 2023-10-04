@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   # // Refactor into Contacts
   team:
     title: "Kontakt"
-    text: "Skontaktuj się z nami, aby uzyskać więcej informacji lub omówić swoje potrzeby."
+    text: "Skontaktuj się z mną, aby uzyskać więcej informacji lub omówić swoje potrzeby."
     subtext: "Twoje pytania i potrzeby są dla mnie priorytetem. Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: team
     people:
@@ -83,8 +83,8 @@ en: &DEFAULT_EN
             icon: fab fa-telegram
           - url: https://wa.link/prz74u
             icon: fab fa-whatsapp"
-          # - url: https://linkedin.com
-          #   icon: fab fa-linkedin-in
+          - url: sms:+48730079948?&body=Witam!
+            icon: fab fa-comment-sms
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
