@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   # // Refactor into Contacts
   team:
     title: "Kontakt"
-    text: "Skontaktuj się z mną, aby uzyskać więcej informacji lub omówić swoje potrzeby."
+    text: "Skontaktuj się ze mną, aby uzyskać więcej informacji lub omówić swoje potrzeby."
     subtext: "Twoje pytania i potrzeby są dla mnie priorytetem. Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: team
     people:
