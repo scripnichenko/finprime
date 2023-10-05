@@ -64,7 +64,7 @@ en: &DEFAULT_EN
   about:
     title: "O Firme"
     text: "Moja misja"
-    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
+    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy.  <br>  NIP: 8992968802"
     section: about
 
 
