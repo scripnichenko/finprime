@@ -90,14 +90,14 @@ en: &DEFAULT_EN
         image: assets/img/team/email3.png
         social:
           - url: mailto:finprime.ievgeniia.s@gmail.com
-            icon: fab fa-envelope
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
+            icon: fas fa-envelope
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
       - name: "Lokalizacja"
         role: "Wrocław"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/map.jpg
         social:
           - url: https://maps.app.goo.gl/cmafZ397KRdu22ea6
             icon: fab fa-google
