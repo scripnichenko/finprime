@@ -101,8 +101,8 @@ en: &DEFAULT_EN
         social:
           - url: https://maps.app.goo.gl/cmafZ397KRdu22ea6
             icon: fab fa-google
-          # - url: https://facebook.com
-          #   icon: fab fa-facebook-f
+          - url: https://maps.apple.com/?address=Wroc%C5%82aw,%20Poland&auid=11586322794158851427&ll=51.109391,17.031492&lsp=7618&q=Wroc%C5%82aw
+            icon: fab fa-apple
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
 
