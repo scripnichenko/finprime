@@ -86,11 +86,11 @@ en: &DEFAULT_EN
           - url: sms:+48730079948?&body=Witam!
             icon: fas fa-comments
       - name: "Email"
-        role: {{ site.email }}
+        role: finprime.ievgeniia.s@gmail.com
         image: assets/img/team/email3.png
         social:
-          - url: mailto:{{ site.email }}
-            icon: fab fa-envelope-open-text
+          - url: mailto:finprime.ievgeniia.s@gmail.com
+            icon: fab fa-envelope
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
           # - url: https://linkedin.com
