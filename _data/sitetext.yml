@@ -76,7 +76,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Telefon"
-        role: "+4730079948"
+        role: "+48730079948"
         image: assets/img/team/call1.jpg
         social:
           - url: https://t.me/+48730079948
