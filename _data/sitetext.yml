@@ -64,7 +64,7 @@ en: &DEFAULT_EN
   about:
     title: "O Firme"
     text: "Moja misja"
-    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy.  <br>  NIP: 8992968802"
+    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
     section: about
 
 
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
     people:
       - name: "Telefon"
         role: "+4730079948"
-        image: assets/img/team/call.jpg
+        image: assets/img/team/call1.jpg
         social:
           - url: https://t.me/+48730079948
             icon: fab fa-telegram
