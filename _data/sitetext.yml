@@ -77,7 +77,7 @@ en: &DEFAULT_EN
     people:
       - name: "Telefon"
         role: "+48730079948"
-        image: assets/img/team/call1.jpg
+        image: assets/img/team/call3.jpg
         social:
           - url: https://t.me/+48730079948
             icon: fab fa-telegram
