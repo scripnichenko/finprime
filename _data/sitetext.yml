@@ -97,7 +97,7 @@ en: &DEFAULT_EN
           #   icon: fab fa-linkedin-in
       - name: "Lokalizacja"
         role: "Wrocław"
-        image: assets/img/team/map1.jpg
+        image: assets/img/team/map2.png
         social:
           - url: https://maps.app.goo.gl/cmafZ397KRdu22ea6
             icon: fab fa-google
