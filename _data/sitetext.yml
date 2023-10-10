@@ -87,7 +87,7 @@ en: &DEFAULT_EN
             icon: fas fa-comments
       - name: "Email"
         role: finprime.ievgeniia.s@gmail.com
-        image: assets/img/team/email4.jpg
+        image: assets/img/team/email4.png
         social:
           - url: mailto:finprime.ievgeniia.s@gmail.com
             icon: fas fa-envelope
