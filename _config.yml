@@ -29,7 +29,7 @@ author     : Ievgeniia Skrypnychenko
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-HB47GKN3PJ
 
 collections:
   portfolio:
