@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Witaj!  Rachunkowość FinPrime - Twoje Rozwiązania Finansowe
-    text: Miło Cię poznać
-    button: Powiedz Mi Więcej
-    buttonlink: "#services"
+    title: Usługi księgowe
+    text: 
+    # button: Powiedz Mi Więcej
+    # buttonlink: "#services"
 
   services:
     title: "Usługi"
