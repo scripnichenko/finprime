@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Usługi księgowe
-    text: 
+    title: 
+    text: Usługi księgowe
     # button: Powiedz Mi Więcej
     # buttonlink: "#services"
 
