@@ -21,7 +21,8 @@ en: &DEFAULT_EN
     text: "Cennik nie stanowi oferty w rozumieniu Art. 66 Kodeksu Cywilnego i służy jedynie do wyliczenia kosztów współpracy."
     section: services
     list:
-      - title: "Ryczałt od przychodów ewidencjonowanych  <br> (od 170 zł miesięcznie)"
+      - title: "Ryczałt od przychodów ewidencjonowanych"
+        price: (od 170 zł miesięcznie)
         desc: "☑️ Prowadzenie ewidencji przychodów <br> ☑️ Składanie deklaracji do ZUS <br> ☑️ Obliczanie zaliczek podatku dochodowego od osób fizycznych <br> ☑️ Sporządzanie i wysyłka deklaracji VAT, składanie JPK"
         icon: fas fa-store #find more at https://fontawesome.com/icons
       - title: "Księga Przychodów i Rozchodów  <br> (od 200 zł miesięcznie)"
