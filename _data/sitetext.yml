@@ -30,6 +30,9 @@ en: &DEFAULT_EN
       - title: "Księgi rachunkowe (pełna księgowość) <br> (od 600 zł miesięcznie)"
         desc: "Prowadzenie ksiąg handlowych  <br>  Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  Obliczanie zaliczek podatku dochodowego od osób prawnych   <br>  Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  Sporządzanie sprawozdania finansowego (Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody"
         icon: fas fa-address-book
+      - title: "Kadry i płace  <br> (od 50 zł)"
+        desc: "Pomoc przy prowadzeniu akt osobowych pracowników   <br>  Przygotowanie umów o pracę, zlecenia i o dzieło   <br>  Sporządzanie i rozliczanie umów zleceń   <br>  Naliczanie wynagrodzeń i sporządzanie listy płac   <br>  Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br>  Sporządzanie i wysyłanie deklaracji do ZUS"
+        icon: fas fa-address-card
 
   timeline:
     title: "Moje Ścieżki Zawodowe"
@@ -45,12 +48,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Kursy Mentoris"
         year: 
-        desc: "[💡 KURS PODSTAW RACHUNKOWOŚCI](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl) <br> [💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
+        desc: "💡 KURS PODSTAW RACHUNKOWOŚCI[Nr certyfikatu: 1699cd8c90a38725](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl) <br> 💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ[Nr certyfikatu: ce293c98bdc4f771](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Licencjonowane oprogramowanie Comarch ERP Optima oraz Ubezpieczenie OC"
+      - title: "Instrumentarium"
         year: 
-        desc: 
+        desc: "Licencjonowane oprogramowanie Comarch ERP Optima oraz Ubezpieczenie OC"
         image: assets/img/timeline/3.jpg
         alt: 
       - title: "Doświadczenie"
@@ -63,7 +66,7 @@ en: &DEFAULT_EN
 
   about:
     title: "O Firme"
-    text: "Wszechstronne wsparcie księgowe"
+    text: "Księgowość na miarę"
     body: "Finprime oferuje kompleksowe usługi księgowe i kadrowo-płacowe dla mikro, małych i średnich firm oraz jednoosobowych działalności gospodarczych."
     section: about
 
