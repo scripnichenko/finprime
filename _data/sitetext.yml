@@ -45,7 +45,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Kursy Mentoris"
         year: "2016-2017"
-        desc: "[Kurs podstaw rachunkowości](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl). <br> [KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
+        desc: "[💡 KURS PODSTAW RACHUNKOWOŚCI](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl) <br> [💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Licencjonowane oprogramowanie oraz Ubezpieczenie OC"
@@ -54,8 +54,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/3.jpg
         alt: 
       - title: "Doświadczenie"
-        year: "2004-2023"
-        desc: "Doświadczona w obsłudze klientów z sektorów: budownictwo, transport, gastronomia, fryzjerstwo, motoryzacja, reklama, IT i usługi sprzątania. Wieloletnie doświadczenie księgowe na Ukrainie. Od 2019 roku świadczę usługi dla klientów z Polski."
+        year: "2011-2023"
+        desc: "Doświadczona w obsłudze klientów z sektorów: budownictwo, transport, gastronomia, fryzjerstwo, motoryzacja, reklama, IT i usługi sprzątania. Wieloletnie doświadczenie księgowe na Ukrainie.  <br> Od 2019 roku świadczę usługi dla klientów z Polski."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
