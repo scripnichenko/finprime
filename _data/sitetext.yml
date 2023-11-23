@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Moja oferta"
-    text: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. <br> Cennik nie stanowi oferty w rozumieniu Art. 66 Kodeksu Cywilnego i służy jedynie do wyliczenia kosztów współpracy."
+    text: "Cennik nie stanowi oferty w rozumieniu Art. 66 Kodeksu Cywilnego i służy jedynie do wyliczenia kosztów współpracy."
     section: services
     list:
       - title: "Ryczałt od przychodów ewidencjonowanych  <br> (od 170 zł miesięcznie)"
