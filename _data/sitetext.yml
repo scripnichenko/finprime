@@ -22,16 +22,19 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Ryczałt od przychodów ewidencjonowanych"
-        price: (od 170 zł miesięcznie)
+        price: "od 170 zł miesięcznie"
         desc: "☑️ Prowadzenie ewidencji przychodów <br> ☑️ Składanie deklaracji do ZUS <br> ☑️ Obliczanie zaliczek podatku dochodowego od osób fizycznych <br> ☑️ Sporządzanie i wysyłka deklaracji VAT, składanie JPK"
         icon: fas fa-store #find more at https://fontawesome.com/icons
-      - title: "Księga Przychodów i Rozchodów  <br> (od 200 zł miesięcznie)"
+      - title: "Księga Przychodów i Rozchodów"
+        price: "od 200 zł miesięcznie"
         desc: "☑️ Prowadzenie podatkowej księgi przychodów i rozchodów <br> ☑️ Spoządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji <br> ☑️ Składanie deklaracji do ZUS <br> Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br> ☑️ Sporządzanie i wysyłka deklaracji VAT, Składanie JPK."
         icon: fas fa-calculator
-      - title: "Księgi rachunkowe (pełna księgowość) <br> (od 600 zł miesięcznie)"
+      - title: "Księgi rachunkowe (pełna księgowość)"
+        price: "od 600 zł miesięcznie"
         desc: "☑️ Prowadzenie ksiąg handlowych  <br>  ☑️ Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  ☑️ Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych   <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  ☑️ Sporządzanie sprawozdania finansowego (Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody"
         icon: fas fa-address-book
-      - title: "Kadry i płace  <br> (od 50 zł)"
+      - title: "Kadry i płace"
+        price: "od 50 zł"
         desc: "☑️ Pomoc przy prowadzeniu akt osobowych pracowników   <br>  ☑️ Przygotowanie umów o pracę, zlecenia i o dzieło   <br>  ☑️ Sporządzanie i rozliczanie umów zleceń   <br>  ☑️ Naliczanie wynagrodzeń i sporządzanie listy płac   <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br>  ☑️ Sporządzanie i wysyłanie deklaracji do ZUS"
         icon: fas fa-address-card
       - title: "Dodatkowe usługi"

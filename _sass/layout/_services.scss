@@ -8,5 +8,8 @@
   color: #000; /* Text color */
   padding: 5px 10px; /* Padding for the badge */
   border-radius: 5px; /* Rounded corners */
-  /* Any other styles you wish to apply */
+  width: auto; /* Allows the badge width to adjust based on content */
+  display: inline-flex; /* Uses flexbox display */
+  align-items: center; /* Vertically centers the text */
+  justify-content: center; /* Horizontally centers the text */
 }
