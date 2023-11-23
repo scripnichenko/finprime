@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Kursy Mentoris"
         year: 
-        desc: "💡 KURS PODSTAW RACHUNKOWOŚCI ([Nr certyfikatu: 1699cd8c90a38725](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl)) <br> 💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ ([Nr certyfikatu: ce293c98bdc4f771](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl))"
+        desc: "💡 KURS PODSTAW RACHUNKOWOŚCI  <br> ([Nr certyfikatu: 1699cd8c90a38725](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl)) <br> 💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ  <br> ([Nr certyfikatu: ce293c98bdc4f771](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl))"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Instrumentarium"
