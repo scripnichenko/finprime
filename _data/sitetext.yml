@@ -40,7 +40,7 @@ en: &DEFAULT_EN
     events:
       - title: "Wykształcenie"
         year: "2004-2011"
-        desc: "DYPLOM BAKAŁAWRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet. <br> DYPLOM MAGISTRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet."
+        desc: "🎓 DYPLOM BAKAŁAWRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet. <br> 🎓 DYPLOM MAGISTRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Kursy Mentoris"
