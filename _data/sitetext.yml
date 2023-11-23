@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Moja oferta"
-    text: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu"
+    text: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu. <br> Cennik nie stanowi oferty w rozumieniu Art. 66 Kodeksu Cywilnego i służy jedynie do wyliczenia kosztów współpracy."
     section: services
     list:
       - title: "Ryczałt od przychodów ewidencjonowanych  <br> (od 170 zł miesięcznie)"
@@ -33,6 +33,9 @@ en: &DEFAULT_EN
       - title: "Kadry i płace  <br> (od 50 zł)"
         desc: "Pomoc przy prowadzeniu akt osobowych pracowników   <br>  Przygotowanie umów o pracę, zlecenia i o dzieło   <br>  Sporządzanie i rozliczanie umów zleceń   <br>  Naliczanie wynagrodzeń i sporządzanie listy płac   <br>  Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br>  Sporządzanie i wysyłanie deklaracji do ZUS"
         icon: fas fa-address-card
+      - title: "Dodatkowe usługi"
+        desc: "Coroczne rozliczanie formularzy PIT  <br>  Cena usług księgowych uzależniona od potrzeb każdego klienta, ilości dokumentów, specyfiki i rodzaju transakcji w firmie."
+        icon: fas fa-poll-h
 
   timeline:
     title: "Moje Ścieżki Zawodowe"
@@ -48,7 +51,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Kursy Mentoris"
         year: 
-        desc: "💡 KURS PODSTAW RACHUNKOWOŚCI[Nr certyfikatu: 1699cd8c90a38725](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl) <br> 💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ[Nr certyfikatu: ce293c98bdc4f771](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
+        desc: "💡 KURS PODSTAW RACHUNKOWOŚCI ([Nr certyfikatu: 1699cd8c90a38725](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl)) <br> 💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ ([Nr certyfikatu: ce293c98bdc4f771](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl))"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Instrumentarium"
