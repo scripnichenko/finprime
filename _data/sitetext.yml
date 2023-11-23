@@ -17,18 +17,18 @@ en: &DEFAULT_EN
     # buttonlink: "#services"
 
   services:
-    title: "Usługi"
+    title: "Moja oferta"
     text: "Profesjonalna Obsługa Księgowa - Twój klucz do finansowego sukcesu"
     section: services
     list:
-      - title: "Rejestracja działalności"
-        desc: "Rejestracji Działalności to pierwszy krok do uruchomienia własnej firmy. Pomagam Ci w procesie rejestracji, formalnościach prawnych i dokumentacji, zapewniając Ci spokojny start w biznesie."
+      - title: "Ryczałt od przychodów ewidencjonowanych  <br> (od 170 zł miesięcznie)"
+        desc: "Prowadzenie ewidencji przychodów <br> Składanie deklaracji do ZUS <br> Obliczanie zaliczek podatku dochodowego od osób fizycznych <br> Sporządzanie i wysyłka deklaracji VAT, składanie JPK"
         icon: fas fa-store #find more at https://fontawesome.com/icons
-      - title: "Księgowość"
-        desc: "Oferuję usługi najwyższej jakości, zapewniając kompleksowe rozwiązania z zakresu księgowości dostosowane do indywidualnych potrzeb i interesów każdego klienta. Świadczę usługi w zakresie prowadzenia ksiąg rachunkowych, podatkowych ksiąg przychodów i rozchodów oraz ewidencji ryczałtowej."
+      - title: "Księga Przychodów i Rozchodów  <br> (od 200 zł miesięcznie)"
+        desc: "Prowadzenie podatkowej księgi przychodów i rozchodów <br> Spoządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji <br> Składanie deklaracji do ZUS <br> Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br> Sporządzanie i wysyłka deklaracji VAT, Składanie JPK."
         icon: fas fa-calculator
-      - title: "Kadry i Płace"
-        desc: "Zapewniając kompleksowe rozwiązania kadrowo-płacowe, dbam o to, abyś mógł skupić się na rozwoju swojego biznesu."
+      - title: "Księgi rachunkowe (pełna księgowość) <br> (od 600 zł miesięcznie)"
+        desc: "Prowadzenie ksiąg handlowych  <br>  Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  Obliczanie zaliczek podatku dochodowego od osób prawnych   <br>  Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  Sporządzanie sprawozdania finansowego (Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody"
         icon: fas fa-address-book
 
   timeline:
@@ -39,23 +39,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Wykształcenie"
-        year: "2004-2011"
+        year: 
         desc: "🎓 DYPLOM BAKAŁAWRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet. <br> 🎓 DYPLOM MAGISTRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Kursy Mentoris"
-        year: "2016-2017"
+        year: 
         desc: "[💡 KURS PODSTAW RACHUNKOWOŚCI](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl) <br> [💡 KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Licencjonowane oprogramowanie oraz Ubezpieczenie OC"
-        year: "2018-2023"
-        desc: "Comarch ERP Optima"
+      - title: "Licencjonowane oprogramowanie Comarch ERP Optima oraz Ubezpieczenie OC"
+        year: 
+        desc: 
         image: assets/img/timeline/3.jpg
         alt: 
       - title: "Doświadczenie"
-        year: "2011-2023"
-        desc: "Doświadczona w obsłudze klientów z sektorów: budownictwo, transport, gastronomia, fryzjerstwo, motoryzacja, reklama, IT i usługi sprzątania. Wieloletnie doświadczenie księgowe na Ukrainie.  <br> Od 2019 roku świadczę usługi dla klientów z Polski."
+        year: 
+        desc: "Posiadam doświadczenie w obsłudze klientów z branży budowlanej, transportowej, gastronomicznej, fryzjerskiej, motoryzacyjnej, reklamowej, IT, usług sprzątania.  <br> Posiadam wieloletnie doswiadczenie w ksiegowosci w Ukrainie.  <br> Od 2019 roku - odsługa klientów z Polski."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
