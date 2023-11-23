@@ -38,24 +38,24 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Moje Początki"
+      - title: "Wykształcenie"
         year: "2004-2011"
-        desc: "W ciągu 7 lat pełniłam funkcje księgowego i ekonomisty w różnych firmach na Ukrainie. Moje obowiązki obejmowały zarządzanie finansami, analizę ekonomiczną oraz rozliczenia podatkowe. To była cenna lekcja, która wzbogaciła moje umiejętności zawodowe."
+        desc: "DYPLOM BAKAŁAWRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet. DYPLOM MAGISTRA SPECJALNOŚCI EKONOMIA BIZNESU Sumski Państwowy Uniwersytet."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Główny księgowy"
-        year: "2012-2015"
-        desc: "W ciągu 4 lat pełniłam funkcję Głównego Księgowego (Trans Cholod, Ukraina ), odpowiedzialnego za kompleksową obsługę finansową. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz zarządzanie finansami firmy. To był okres, w którym zdobywałem cenne doświadczenie jako profesjonalny księgowy."
+      - title: "KURSY Mentoris"
+        year: "2016-2017"
+        desc: "[Kurs podstaw rachunkowości](https://kursy-rachunkowosci.pl/cert/1699cd8c90a38725/pl). [KURS RACHUNKOWOŚCI ŚREDNIOZAAWANSOWANEJ](https://kursy-rachunkowosci.pl/cert/ce293c98bdc4f771/pl)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Księgowa"
+      - title: "Licencjonowane oprogramowanie oraz Ubezpieczenie OC"
         year: "2018-2023"
-        desc: "W ciągu 5 lat pracowałem jako Księgowa (Aptus Consulting Sp. z o.o. - Wrocław). Posiadam bogate doświadczenie w obszarze polskiego prawa podatkowego oraz systemów księgowych. Moje obowiązki obejmowały prowadzenie ksiąg rachunkowych, rozliczenia podatkowe oraz ścisłą współpracę z polskimi systemami księgowymi. To cenne doświadczenie pozwoliło mi doskonalić moje umiejętności w dziedzinie księgowości."
+        desc: "Comarch ERP Optima"
         image: assets/img/timeline/3.jpg
-        alt: "Tekst alternatywny obrazu"
-      - title: "Założenie firmy - FinPrime!"
-        year: "Wrzesień 2023"
-        desc: "To dla mnie wielkie osiągnięcie i nowy rozdział w mojej karierze. Jako założyciel firmy jestem gotówa do dostarczania najlepszych usług księgowych klientom."
+        alt: 
+      - title: "Doświadczenie"
+        year: "2004-2023"
+        desc: "Doświadczona w obsłudze klientów z sektorów: budownictwo, transport, gastronomia, fryzjerstwo, motoryzacja, reklama, IT i usługi sprzątania. Wieloletnie doświadczenie księgowe na Ukrainie. Od 2019 roku świadczę usługi dla klientów z Polski."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
@@ -63,8 +63,8 @@ en: &DEFAULT_EN
 
   about:
     title: "O Firme"
-    text: "Moja misja"
-    body: "Dostarczanie najwyższej jakości usług księgowych. Jestem przekonana, że dokładność, zrozumienie przepisów podatkowych oraz profesjonalizm są kluczowymi elementami sukcesu każdej firmy."
+    text: "Wszechstronne wsparcie księgowe"
+    body: "Finprime oferuje kompleksowe usługi księgowe i kadrowo-płacowe dla mikro, małych i średnich firm oraz jednoosobowych działalności gospodarczych."
     section: about
 
 
