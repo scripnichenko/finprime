@@ -31,11 +31,11 @@ en: &DEFAULT_EN
         icon: fas fa-calculator
       - title: "Księgi rachunkowe (pełna księgowość)"
         price: "od 600 zł miesięcznie"
-        desc: "☑️ Prowadzenie ksiąg handlowych  <br>  ☑️ Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  ☑️ Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  ☑️ Sporządzanie sprawozdania finansowego <br> Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody przychody za miniony rok wyniosą co najmniej równowartość w walucie polskiej 2 000 000 EUR."
+        desc: "☑️ Prowadzenie ksiąg handlowych  <br>  ☑️ Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  ☑️ Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  ☑️ Sporządzanie sprawozdania finansowego   <br>  Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody przychody za miniony rok wyniosą co najmniej równowartość w walucie polskiej 2 000 000 EUR."
         icon: fas fa-address-book
       - title: "Kadry i płace"
         price: "od 50 zł"
-        desc: "☑️ Pomoc przy prowadzeniu akt osobowych pracowników   <br>  ☑️ Przygotowanie umów o pracę, zlecenia i o dzieło   <br>  ☑️ Sporządzanie i rozliczanie umów zleceń   <br>  ☑️ Naliczanie wynagrodzeń i sporządzanie listy płac   <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br>  ☑️ Sporządzanie i wysyłanie deklaracji do ZUS"
+        desc: "☑️ Pomoc przy prowadzeniu akt osobowych pracowników   <br>  ☑️ Przygotowanie umów o pracę, zlecenia i o dzieło   <br>  ☑️ Naliczanie wynagrodzeń i sporządzanie listy płac   <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br>  ☑️ Sporządzanie i wysyłanie deklaracji do ZUS"
         icon: fas fa-address-card
       - title: "Dodatkowe usługi"
         desc: "☑️ Coroczne rozliczanie formularzy PIT  <br>  ☑️ Cena usług księgowych uzależniona od potrzeb każdego klienta, ilości dokumentów, specyfiki i rodzaju transakcji w firmie."
