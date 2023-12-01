@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         icon: fas fa-calculator
       - title: "Księgi rachunkowe (pełna księgowość)"
         price: "od 600 zł miesięcznie"
-        desc: "☑️ Prowadzenie ksiąg handlowych  <br>  ☑️ Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  ☑️ Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych   <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  ☑️ Sporządzanie sprawozdania finansowego (Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody"
+        desc: "☑️ Prowadzenie ksiąg handlowych  <br>  ☑️ Prowadzenie rozliczeń stanów należności i zobowiązań   <br>  ☑️ Sporządzanie i przesyłanie rozliczeń w zakresie podatku VAT  <br>  ☑️ Obliczanie zaliczek podatku dochodowego od osób prawnych  <br>  ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji   <br>  ☑️ Sporządzanie sprawozdania finansowego <br> Do prowadzenia pełnych ksiąg rachunkowych zobowiązane są spółki z o.o., akcyjne, komandytowe. Do posiadania pełnej księgowości zobligowane są też osoby fizyczne, spółki cywilne osób fizycznych, spółki jawne osób fizycznych oraz spółki partnerskie jeżeli ich przychody przychody za miniony rok wyniosą co najmniej równowartość w walucie polskiej 2 000 000 EUR."
         icon: fas fa-address-book
       - title: "Kadry i płace"
         price: "od 50 zł"
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "O Firme"
     text: "Księgowość na miarę"
-    body: "Finprime oferuje kompleksowe usługi księgowe i kadrowo-płacowe dla mikro, małych i średnich firm oraz jednoosobowych działalności gospodarczych."
+    body: "Finprime oferuje kompleksowe usługi księgowe i kadrowo-płacowe dla mikro, małych i średnich firm oraz jednoosobowych działalności gospodarczych. Twoje pytania i potrzeby są dla mnie priorytetem.  <br>  Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: about
 
 
@@ -82,7 +82,7 @@ en: &DEFAULT_EN
   team:
     title: "Kontakt"
     text: "Chętnie odpowiem na wszystkie Państwa pytania lub omówię szczegóły. Skontaktujmy się!"
-    subtext: "Twoje pytania i potrzeby są dla mnie priorytetem. Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
+    subtext: 
     section: team
     people:
       - name: "Telefon"
