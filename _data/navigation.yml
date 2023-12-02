@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Usługi"
+    - title: "Oferta"
       section: services
     - title: "O Firme"
       section: about

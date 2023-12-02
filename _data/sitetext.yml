@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     # buttonlink: "#services"
 
   services:
-    title: "Moja oferta"
+    title: "Oferta"
     text: "Cennik nie stanowi oferty w rozumieniu Art. 66 Kodeksu Cywilnego i służy jedynie do wyliczenia kosztów współpracy."
     section: services
     list:
@@ -73,7 +73,7 @@ en: &DEFAULT_EN
 
   about:
     title: "O Firme"
-    text: "Księgowość na miarę"
+    text: 
     body: "Finprime oferuje kompleksowe usługi księgowe i kadrowo-płacowe dla mikro, małych i średnich firm oraz jednoosobowych działalności gospodarczych. Twoje pytania i potrzeby są dla mnie priorytetem.  <br>  Jako niezależny ekspert jestem gotowa, aby świadczyć Ci najlepszą obsługę. Skontaktuj się już dziś i daj mi szansę pomóc Ci osiągnąć sukces!"
     section: about
 
