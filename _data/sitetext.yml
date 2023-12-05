@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-store #find more at https://fontawesome.com/icons
       - title: "Księga Przychodów i Rozchodów"
         price: "od 200 zł miesięcznie"
-        desc: "☑️ Prowadzenie podatkowej księgi przychodów i rozchodów <br> ☑️ Spoządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji <br> ☑️ Składanie deklaracji do ZUS <br> Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br> ☑️ Sporządzanie i wysyłka deklaracji VAT, Składanie JPK"
+        desc: "☑️ Prowadzenie podatkowej księgi przychodów i rozchodów <br> ☑️ Sporządzanie ewidencji środków trwałych, wartości niematerialnych i prawnych, naliczanie amortyzacji <br> ☑️ Składanie deklaracji do ZUS <br> Obliczanie zaliczek podatku dochodowego od osób fizycznych  <br> ☑️ Sporządzanie i wysyłka deklaracji VAT, Składanie JPK"
         icon: fas fa-calculator
       - title: "Księgi rachunkowe (pełna księgowość)"
         price: "od 600 zł miesięcznie"
@@ -65,7 +65,7 @@ en: &DEFAULT_EN
         alt: 
       - title: "Doświadczenie"
         year: 
-        desc: "Posiadam doświadczenie w obsłudze klientów z branży budowlanej, transportowej, gastronomicznej, fryzjerskiej, motoryzacyjnej, reklamowej, IT, usług sprzątania.  <br> Posiadam wieloletnie doswiadczenie w ksiegowosci w Ukrainie.  <br> Od 2019 roku - odsługa klientów z Polski."
+        desc: "Posiadam doświadczenie w obsłudze klientów z branży budowlanej, transportowej, gastronomicznej, fryzjerskiej, motoryzacyjnej, reklamowej, IT, usług sprzątania.  <br> Posiadam wieloletnie doświadczenie w ksiegowosci w Ukrainie.  <br> Od 2019 roku - obsługa klientów z Polski."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
